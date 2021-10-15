@@ -54,10 +54,10 @@ Preliminary data cleaning was conducted with the pandas library, which included 
 Subsequently, the remaining data cleaning and initial exploratory data analysis was carried out in Google Sheets. 
 
 ### Visualization
-The interactive Tableau dashboard can be accessed [here] (https://public.tableau.com/app/profile/evelyn.johnson/viz/Biz_fun_project/Dashboard1?publish=yes)
+The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/evelyn.johnson/viz/Biz_fun_project/Dashboard1?publish=yes)
 
 ### Modeling 
-In future work, I plan to develop a scoring algorithm which determines the relative score of potential impact based primarily upon a location's homelessness population estimation and risk of costly property damage from severe weather events. 
+In future work, I plan to develop a scoring algorithm which determines the relative score of potential impact based primarily upon a location's homelessness population estimation, risk of costly property damage from severe weather events and financial feasibility of a particular location. 
 
 ## Tools
 - Pandas for preliminary data acquisition and cleaning
