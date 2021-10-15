@@ -14,7 +14,7 @@ The ultimate goal of this project is to determine locations on the contiguous Un
   
   **Primary Impact:** determine the location for the 3D-printed village
   
-  **Secondary Impacts:** reduce the amount of chronic homelessness in a given area, prevent the costs of damage, repair or rebuilding for tenants of the village and overall climatic vulnerability of area
+  **Secondary Impacts:** reduce the amount of chronic homelessness in a given area, prevent the costs of damage, repair or rebuilding for tenants of the village and overall climatic vulnerability of the chosen area
 
 </p>
 </details>
@@ -22,8 +22,7 @@ The ultimate goal of this project is to determine locations on the contiguous Un
 <details><summary>Solution Path</summary>
 <p> 
   
-**Suggested Solution Path:** 
-  Determine the location based on model which scores locations based upon the following features: <br>
+Determine the location based on a model which scores locations based upon the following features:
 - Previous costs of property damage in dollars per state
 - Number of severe weather events
 - Number of homeless individuals based upon point-in-time estimations
@@ -36,7 +35,7 @@ The ultimate goal of this project is to determine locations on the contiguous Un
   
   **Technical:** relative scoring algorithm identifies reasonable locations for the 3D-printed village
   
-  **Nontechnical:** rate of chronic homelessness reduced in and around the location of village, reduction in cost of property damage from severe weather events for village tenants 
+  **Nontechnical:** reduciton in rate of chronic homelessness and in cost of property damage from severe weather events for village tenants 
   
 </p>
 </details>
@@ -63,4 +62,4 @@ In future work, I plan to develop a scoring algorithm which determines the relat
 - Tableau for data visualization
 
 ## Communication
-Along with this written report, I created a "pitch" presentation and have uploaded my Tableau dashboard online. 
+Along with this written report, I created a "pitch" presentation and have uploaded a Tableau dashboard online. 
