@@ -41,8 +41,6 @@ The ultimate goal of this project is to determine locations on the contiguous Un
 </p>
 </details>
 
-### Risks and Assumptions 
-
 ## Data
 - Severe Storms and Extreme Events data for 2020, acquired via NOAA, Climate.gov
 - Point-in-Time (PIT) data for 2020 from the US Department of Housing and Urban Development (HUD) Exchange
